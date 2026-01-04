@@ -112,14 +112,6 @@ Robot description files are located in `urdf/` directory. Key components include
 - LiDAR sensor with appropriate placement and FOV
 - Accurate mass, inertia, and collision properties
 
-### Navigation Parameters
-
-Navigation configuration files are in `config/` directory:
-
-- `nav2_params.yaml`: Global/local planner, controller, and costmap settings
-- `slam_params.yaml`: SLAM algorithm configuration
-- `rviz_config.rviz`: Visualization preferences
-
 ### Tuned Parameters
 
 The following parameters have been optimized for improved performance:
