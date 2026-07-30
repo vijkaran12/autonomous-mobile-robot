@@ -167,4 +167,4 @@ For questions or support, please open an issue in the repository.
 
 ---
 
-**Note**: Replace `<your_package>` and `<your-repository-url>` with your actual package name and repository URL throughout this README.
+
